@@ -1,0 +1,98 @@
+[
+  {
+    "id": "6358a9bb1a7c5b1f7997f7da",
+    "isFeatured": true,
+    "isBestSeller": false,
+    "price": "$123.93",
+    "img": "http://placehold.it/32x32",
+    "instructor": "Wiley Mcdonald",
+    "gender": "male",
+    "name": "AQUAMATE",
+    "description": "Non veniam dolor Lorem nulla officia quis nisi elit laborum. Id laboris magna ea amet veniam eu fugiat. Ex sint et aute nisi incididunt consequat excepteur.\r\n",
+    "ratings": 4.1
+  },
+  {
+    "id": "6358a9bbc14f3b82c5a59ee5",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "price": "$138.68",
+    "img": "http://placehold.it/32x32",
+    "instructor": "Charles Oneil",
+    "gender": "male",
+    "name": "REVERSUS",
+    "description": "Dolor exercitation voluptate adipisicing aliqua anim minim. Proident eu ullamco proident cupidatat excepteur Lorem sint. Cupidatat minim in ex nisi ad sint tempor proident. Id do irure laboris cupidatat ea enim excepteur fugiat voluptate. Esse in commodo ad qui. Mollit voluptate sit laborum qui non anim in eiusmod eiusmod esse consectetur excepteur aute aute. Dolore exercitation sint eiusmod commodo fugiat est incididunt elit laborum.\r\n",
+    "ratings": 4.8
+  },
+  {
+    "id": "6358a9bb56419bfccaaed35e",
+    "isFeatured": false,
+    "isBestSeller": true,
+    "price": "$149.50",
+    "img": "http://placehold.it/32x32",
+    "instructor": "Vaughn Dominguez",
+    "gender": "male",
+    "name": "NORSUP",
+    "description": "Nulla nostrud eu duis aute sint in cupidatat nisi. Minim sint laborum nisi do in culpa id incididunt velit ipsum pariatur. Eu aliquip adipisicing amet sit sit veniam nostrud occaecat veniam qui. Deserunt eu dolor cupidatat cupidatat voluptate aute ipsum. Sit irure eiusmod deserunt do magna consequat minim.\r\n",
+    "ratings": 4.4
+  },
+  {
+    "id": "6358a9bb63ea6ee3635f11d3",
+    "isFeatured": true,
+    "isBestSeller": false,
+    "price": "$113.89",
+    "img": "http://placehold.it/32x32",
+    "instructor": "Lenora Mathews",
+    "gender": "female",
+    "name": "MAKINGWAY",
+    "description": "Reprehenderit consequat est non pariatur magna labore et laboris occaecat dolore. Consectetur occaecat enim cupidatat cupidatat mollit sint aliquip consequat duis anim quis velit ad. Esse dolor magna ut in quis in proident adipisicing amet est esse reprehenderit in voluptate.\r\n",
+    "ratings": 4.9
+  },
+  {
+    "id": "6358a9bbe779f0ac86b14f49",
+    "isFeatured": true,
+    "isBestSeller": false,
+    "price": "$198.35",
+    "img": "http://placehold.it/32x32",
+    "instructor": "Webster Bowman",
+    "gender": "male",
+    "name": "ZILLAN",
+    "description": "In voluptate aliqua pariatur magna veniam adipisicing. Aliqua laborum Lorem dolor ipsum adipisicing. Aute amet sunt sunt et proident id est duis sint culpa ut dolor laboris velit. Ex minim do voluptate aliquip velit esse excepteur.\r\n",
+    "ratings": 4.3
+  },
+  {
+    "id": "6358a9bb6282dbae60abc871",
+    "isFeatured": true,
+    "isBestSeller": false,
+    "price": "$59.02",
+    "img": "http://placehold.it/32x32",
+    "instructor": "Lester Holden",
+    "gender": "male",
+    "name": "FLYBOYZ",
+    "description": "Sit officia in duis ad irure do adipisicing nostrud occaecat. Do ullamco dolor adipisicing qui irure ut ad reprehenderit et. Anim ut excepteur anim sit laboris cupidatat aliqua in anim Lorem tempor nisi. Est irure tempor do irure veniam ipsum.\r\n",
+    "ratings": 4.7
+  },
+  {
+    "id": "6358a9bb557b8d808ce88b0e",
+    "isFeatured": false,
+    "isBestSeller": false,
+    "price": "$81.39",
+    "img": "http://placehold.it/32x32",
+    "instructor": "Clarice Russell",
+    "gender": "female",
+    "name": "BILLMED",
+    "description": "Quis dolor anim occaecat fugiat ullamco aliquip occaecat sunt elit excepteur enim. Velit duis et et ad culpa non quis adipisicing. Irure dolore incididunt enim ea voluptate fugiat qui. Ea sit sit sunt consequat mollit Lorem fugiat minim minim elit aliquip. Sunt ipsum sit mollit cillum. Sint aliqua id dolor amet consectetur quis ad cillum sint ipsum veniam.\r\n",
+    "ratings": 4.8
+  },
+  {
+    "id": "6358a9bba7dae93711d7b8d5",
+    "isFeatured": true,
+    "isBestSeller": false,
+    "price": "$193.93",
+    "img": "http://placehold.it/32x32",
+    "instructor": "Lorna Morin",
+    "gender": "female",
+    "name": "OPTICOM",
+    "description": "Occaecat sit adipisicing consectetur incididunt proident reprehenderit qui Lorem incididunt. Non minim cupidatat in nostrud esse esse est exercitation proident nulla proident exercitation minim aute. Laboris tempor aute est ullamco aliquip.\r\n",
+    "ratings": 4.3
+  }
+]
