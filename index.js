@@ -1,10 +1,10 @@
 const express = require('express');
-const courses = require('./data/courses.json');
 const app = express();
 const cors = require('cors');
-const port = 5000;
 
 app.use(cors());
+const courses = require('./data/courses.json');
+const blog = require('./data/blog.json');
 
 app.get('/', (req, res) => {
   res.send('Hello World!');
@@ -22,4 +22,8 @@ app.get('/details/:courseId', (req, res) => {
   res.json(courseDetails);
 });
 
-app.listen(port);
+app.get('/blog', (req, res) => {
+  res.json(blog);
+});
+
+app.listen(5000);
