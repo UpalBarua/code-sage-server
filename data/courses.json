@@ -1,10 +1,10 @@
 [
   {
-    "id": "6358a9bb1a7c5b1f7997f7da",
+    "id": "6358a9bb1a7c5bsf7997f7da",
     "isFeatured": true,
     "isBestSeller": false,
     "price": "$123.93",
-    "img": "http://placehold.it/32x32",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902",
     "instructor": "Wiley Mcdonald",
     "gender": "male",
     "name": "AQUAMATE",
@@ -12,11 +12,11 @@
     "ratings": 4.1
   },
   {
-    "id": "6358a9bbc14f3b82c5a59ee5",
+    "id": "6358a9bbc14f3b82c5g59ee5",
     "isFeatured": false,
     "isBestSeller": false,
     "price": "$138.68",
-    "img": "http://placehold.it/32x32",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902",
     "instructor": "Charles Oneil",
     "gender": "male",
     "name": "REVERSUS",
@@ -24,11 +24,11 @@
     "ratings": 4.8
   },
   {
-    "id": "6358a9bb56419bfccaaed35e",
+    "id": "6358a9bb56419bfc3aaed35e",
     "isFeatured": false,
     "isBestSeller": true,
     "price": "$149.50",
-    "img": "http://placehold.it/32x32",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902",
     "instructor": "Vaughn Dominguez",
     "gender": "male",
     "name": "NORSUP",
@@ -36,11 +36,11 @@
     "ratings": 4.4
   },
   {
-    "id": "6358a9bb63ea6ee3635f11d3",
+    "id": "6358a9bb63ea78ee3635f11d3",
     "isFeatured": true,
     "isBestSeller": false,
     "price": "$113.89",
-    "img": "http://placehold.it/32x32",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902",
     "instructor": "Lenora Mathews",
     "gender": "female",
     "name": "MAKINGWAY",
@@ -48,11 +48,11 @@
     "ratings": 4.9
   },
   {
-    "id": "6358a9bbe779f0ac86b14f49",
+    "id": "6358a9bbe779fdac86b14f49",
     "isFeatured": true,
     "isBestSeller": false,
     "price": "$198.35",
-    "img": "http://placehold.it/32x32",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902",
     "instructor": "Webster Bowman",
     "gender": "male",
     "name": "ZILLAN",
@@ -60,11 +60,11 @@
     "ratings": 4.3
   },
   {
-    "id": "6358a9bb6282dbae60abc871",
+    "id": "6358a9bb6282dbae10abc871",
     "isFeatured": true,
     "isBestSeller": false,
     "price": "$59.02",
-    "img": "http://placehold.it/32x32",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902",
     "instructor": "Lester Holden",
     "gender": "male",
     "name": "FLYBOYZ",
@@ -72,11 +72,11 @@
     "ratings": 4.7
   },
   {
-    "id": "6358a9bb557b8d808ce88b0e",
+    "id": "6358a9bb557b8d8h8ce88b0e",
     "isFeatured": false,
     "isBestSeller": false,
     "price": "$81.39",
-    "img": "http://placehold.it/32x32",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902",
     "instructor": "Clarice Russell",
     "gender": "female",
     "name": "BILLMED",
@@ -84,11 +84,23 @@
     "ratings": 4.8
   },
   {
-    "id": "6358a9bba7dae93711d7b8d5",
+    "id": "6358a9bba72ae93711d7b8d5",
     "isFeatured": true,
     "isBestSeller": false,
     "price": "$193.93",
-    "img": "http://placehold.it/32x32",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902",
+    "instructor": "Lorna Morin",
+    "gender": "female",
+    "name": "OPTICOM",
+    "description": "Occaecat sit adipisicing consectetur incididunt proident reprehenderit qui Lorem incididunt. Non minim cupidatat in nostrud esse esse est exercitation proident nulla proident exercitation minim aute. Laboris tempor aute est ullamco aliquip.\r\n",
+    "ratings": 4.3
+  },
+  {
+    "id": "6358a9bba7dae9371187b8d5",
+    "isFeatured": true,
+    "isBestSeller": false,
+    "price": "$193.93",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902",
     "instructor": "Lorna Morin",
     "gender": "female",
     "name": "OPTICOM",
